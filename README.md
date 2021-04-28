@@ -1,1 +1,1 @@
-# 90deg
+# Box Class
